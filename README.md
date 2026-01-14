@@ -1,4 +1,4 @@
-# Thesaurus+ 🌐
+# Parlance 🌐
 
 **The Slang-Aware Thesaurus** | Mapping Language by Meaning, Tone, Era & Region
 
@@ -10,7 +10,7 @@ A living, dynamic linguistic tool that bridges dictionaries, thesauruses, and li
 
 **Traditional thesauruses** give you "angry" → "mad, furious, irate"
 
-**Thesaurus+** gives you:
+**Parlance** gives you:
 - 💬 **Tone filtering**: Find formal, informal, slang, or vulgar equivalents
 - 🌍 **Regional variants**: Discover US, UK, Australian, AAVE expressions
 - 📊 **Similarity scores**: See how substitutable words really are (0.5-1.0)
